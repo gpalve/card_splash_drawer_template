@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_color">#FF000000</color>
+    <color name="primary_variant">#FF333333</color> <!-- A slightly lighter shade for the variant -->
+    <color name="secondary_color">#FF03DAC5</color> <!-- You can keep teal as the secondary color -->
+    <color name="secondary_variant">#FF018786</color>
+    <color name="on_primary">#FFFFFFFF</color>
+    <color name="on_secondary">#FF000000</color> <!-- Change text on secondary to white for contrast -->
+</resources>

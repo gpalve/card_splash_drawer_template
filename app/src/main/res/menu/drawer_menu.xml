@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_about_us"
+        android:title="👤 About Us" /> <!-- Unicode icon for "About Us" -->
+    <item
+        android:id="@+id/nav_terms"
+        android:title="📜 Terms and Conditions" /> <!-- Unicode icon for "Terms and Conditions" -->
+    <item
+        android:id="@+id/nav_contact_us"
+        android:title="✉️ Contact Us" /> <!-- Unicode icon for "Contact Us" -->
+    <item
+        android:id="@+id/nav_settings"
+        android:title="⚙️ Settings" /> <!-- Unicode icon for "Settings" -->
+    <item
+        android:id="@+id/nav_share"
+        android:title="🚀 Share" /> <!-- Unicode icon for "Share" -->
+</menu>
